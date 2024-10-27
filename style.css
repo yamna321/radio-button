@@ -1,0 +1,43 @@
+
+
+body{
+    background-image: url(pizza\ img.jpg);
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+.right{
+    float: right;
+    width: 600px;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 35px;
+    color: wheat;
+    font-size: larger;
+  }
+  h1{
+    color: black;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px red;
+    font-style: italic;
+  }
+  h2{
+    color: black;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px red;
+    font-style: italic;
+  }
+  p{
+    color: beige;
+    text-transform: capitalize;
+  }
+  ul li{
+    list-style: none;
+    color: beige;
+    text-transform: capitalize;
+    cursor: pointer;
+  }
